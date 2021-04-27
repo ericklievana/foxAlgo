@@ -1,0 +1,11 @@
+set title "Tiempo Flotantes"
+set xlabel "Orden matriz"
+set ylabel "Tiempo(s)"
+set grid
+plot "promediosTiempo.txt" using 4:1 with lines title "MPI"
+replot "promediosTiempo.txt" using 4:2 with lines title "OMP"
+replot "promediosTiempo.txt" using 4:3 with lines title "Secuencial"
+#replot "promediosTiempo.txt" using 4:1:(sprintf("(%d, %f)", $1, $2)) with labels notitle
+#replot "promediosTiempo.txt" using 4:2:(sprintf("(%d, %f)", $1, $3)) with labels notitle
+#replot "promediosTiempo.txt" using 4:3:(sprintf("(%d, %f)", $1, $4)) with labels notitle
+pause -1
