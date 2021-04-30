@@ -1,10 +1,11 @@
-set title "Memoria Enteros"
+set title "Uso de memoria con 1 core(s) datos Enteros"
+set title font "Helvetica,14"
 set xlabel "Orden matriz"
 set ylabel "Memoria(kb)"
 set grid
-plot "promediosMemoria.txt" using 4:1 with lines title "MPI"
-replot "promediosMemoria.txt" using 4:2 with lines title "OMP"
-replot "promediosMemoria.txt" using 4:3 with lines title "Secuencial"
+plot "promediosMemoria.txt" using 4:1 with linespoints lw 3 title "MPI"
+replot "promediosMemoria.txt" using 4:2 with linespoints lw 3 title "OMP"
+replot "promediosMemoria.txt" using 4:3 with linespoints lw 3 title "Secuencial"
 #replot "promediosMemoria.txt" using 4:1:(sprintf("(%d, %f)", $1, $2)) with labels notitle
 #replot "promediosMemoria.txt" using 4:2:(sprintf("(%d, %f)", $1, $3)) with labels notitle
 #replot promediosMemoria.txt using 4:3:(sprintf("(%d, %f)", $1, $4)) with labels notitle

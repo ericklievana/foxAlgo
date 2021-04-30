@@ -1,0 +1,12 @@
+set title "Tiempo de ejecucion 4 core(s) datos Flotantes"
+set title font "Helvetica,14"
+set xlabel "Orden matriz"
+set ylabel "Tiempo(s)"
+set grid
+plot "promediosTiempo.txt" using 4:1 with linespoints lw 3 title "MPI"
+replot "promediosTiempo.txt" using 4:2 with linespoints lw 3 title "OMP"
+replot "promediosTiempo.txt" using 4:3 with linespoints lw 3 title "Secuencial"
+#replot "promediosTiempo.txt" using 4:1:(sprintf("(%d, %f)", $1, $2)) with labels notitle
+#replot "promediosTiempo.txt" using 4:2:(sprintf("(%d, %f)", $1, $3)) with labels notitle
+#replot "promediosTiempo.txt" using 4:3:(sprintf("(%d, %f)", $1, $4)) with labels notitle
+pause -1

@@ -1,0 +1,441 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.4.20)  29 APR 2021 21:00
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**articulo.tex
+(./articulo.tex
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-12-03> xparse <2020-03-03>
+(/usr/share/texmf-dist/tex/latex/IEEEtran/IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen138
+\@IEEEtrantmpdimenB=\dimen139
+\@IEEEtrantmpdimenC=\dimen140
+\@IEEEtrantmpcountA=\count177
+\@IEEEtrantmpcountB=\count178
+\@IEEEtrantmpcountC=\count179
+\@IEEEtrantmptoksA=\toks15
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 5
+03.
+(/usr/share/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen141
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen142
+\CLASSINFOnormalsizeunitybaselineskip=\dimen143
+\IEEEnormaljot=\dimen144
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+\IEEEquantizedlength=\dimen145
+\IEEEquantizedlengthdiff=\dimen146
+\IEEEquantizedtextheightdiff=\dimen147
+\IEEEilabelindentA=\dimen148
+\IEEEilabelindentB=\dimen149
+\IEEEilabelindent=\dimen150
+\IEEEelabelindent=\dimen151
+\IEEEdlabelindent=\dimen152
+\IEEElabelindent=\dimen153
+\IEEEiednormlabelsep=\dimen154
+\IEEEiedmathlabelsep=\dimen155
+\IEEEiedtopsep=\skip47
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@IEEEsubequation=\count184
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\c@figure=\count185
+\c@table=\count186
+\@IEEEeqnnumcols=\count187
+\@IEEEeqncolcnt=\count188
+\@IEEEsubeqnnumrollback=\count189
+\@IEEEquantizeheightA=\dimen156
+\@IEEEquantizeheightB=\dimen157
+\@IEEEquantizeheightC=\dimen158
+\@IEEEquantizeprevdepth=\dimen159
+\@IEEEquantizemultiple=\count190
+\@IEEEquantizeboxA=\box47
+\@IEEEtmpitemindent=\dimen160
+\IEEEPARstartletwidth=\dimen161
+\c@IEEEbiography=\count191
+\@IEEEtranrubishbin=\box48
+) (/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen162
+\Gin@req@width=\dimen163
+)
+(/usr/share/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count192
+\float@exts=\toks19
+\float@box=\box49
+\@float@everytoks=\toks20
+\@floatcapt=\box50
+)
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count193
+\l__pdf_internal_box=\box51
+)
+(./articulo.aux
+
+LaTeX Warning: Label `table_example' multiply defined.
+
+
+LaTeX Warning: Label `table_example' multiply defined.
+
+
+LaTeX Warning: Label `table_example' multiply defined.
+
+
+LaTeX Warning: Label `table_example' multiply defined.
+
+
+LaTeX Warning: Label `table_example' multiply defined.
+
+
+LaTeX Warning: Label `table_example' multiply defined.
+
+
+LaTeX Warning: Label `table_example' multiply defined.
+
+
+LaTeX Warning: Label `table_example' multiply defined.
+
+
+LaTeX Warning: Label `table_example' multiply defined.
+
+
+LaTeX Warning: Label `table_example' multiply defined.
+
+
+LaTeX Warning: Label `table_example' multiply defined.
+
+
+LaTeX Warning: Label `table_example' multiply defined.
+
+
+LaTeX Warning: Label `table_example' multiply defined.
+
+
+LaTeX Warning: Label `table_example' multiply defined.
+
+
+LaTeX Warning: Label `table_example' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+
+-- Lines per column: 58 (exact).
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count194
+\scratchdimen=\dimen164
+\scratchbox=\box52
+\nofMPsegments=\count195
+\nofMParguments=\count196
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count197
+\MPscratchDim=\dimen165
+\MPnumerator=\count198
+\makeMPintoPDFobject=\count199
+\everyMPtoPDFconversion=\toks22
+) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 42.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 42.
+<figs/matrizfox.png, id=1, 411.03563pt x 340.27126pt>
+File: figs/matrizfox.png Graphic file (type png)
+<use figs/matrizfox.png>
+Package pdftex.def Info: figs/matrizfox.png  used on input line 46.
+(pdftex.def)             Requested size: 226.79846pt x 187.75204pt.
+
+Underfull \vbox (badness 2368) has occurred while \output is active []
+
+LaTeX Info: Symbol \textasciiacute not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 52.
+ [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+ <./figs/matrizfox.png>]
+<figs/gnuplot3.png, id=18, 645.41125pt x 467.7475pt>
+File: figs/gnuplot3.png Graphic file (type png)
+<use figs/gnuplot3.png>
+Package pdftex.def Info: figs/gnuplot3.png  used on input line 68.
+(pdftex.def)             Requested size: 226.79846pt x 164.36356pt.
+
+Underfull \hbox (badness 4899) in paragraph at lines 101--102
+[]\OT1/ptm/m/n/10 Procesador: In-tel(R) Core(TM) i7-7700K CPU @
+ []
+
+
+Underfull \hbox (badness 2680) in paragraph at lines 111--112
+[]\OT1/ptm/m/n/10 Procesador: In-tel(R) Core(TM) i5-1035G1 CPU @
+ []
+
+<figs/1nucleoCortosTiempo.png, id=19, 1443.89438pt x 765.6103pt>
+File: figs/1nucleoCortosTiempo.png Graphic file (type png)
+<use figs/1nucleoCortosTiempo.png>
+Package pdftex.def Info: figs/1nucleoCortosTiempo.png  used on input line 143.
+(pdftex.def)             Requested size: 239.39923pt x 126.92772pt.
+[2 <./figs/gnuplot3.png>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 152.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 152.
+<figs/1nucleoCortosMemoria.png, id=24, 1443.89438pt x 765.6103pt>
+File: figs/1nucleoCortosMemoria.png Graphic file (type png)
+<use figs/1nucleoCortosMemoria.png>
+Package pdftex.def Info: figs/1nucleoCortosMemoria.png  used on input line 168.
+
+(pdftex.def)             Requested size: 239.39923pt x 126.92772pt.
+<figs/4nucleosCortosTiempo.png, id=25, 1443.89438pt x 765.6103pt>
+File: figs/4nucleosCortosTiempo.png Graphic file (type png)
+<use figs/4nucleosCortosTiempo.png>
+Package pdftex.def Info: figs/4nucleosCortosTiempo.png  used on input line 195.
+
+(pdftex.def)             Requested size: 239.39923pt x 126.92772pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<figs/4nucleosCortosMemoria.png, id=26, 1443.89438pt x 765.6103pt>
+File: figs/4nucleosCortosMemoria.png Graphic file (type png)
+<use figs/4nucleosCortosMemoria.png>
+Package pdftex.def Info: figs/4nucleosCortosMemoria.png  used on input line 220
+.
+(pdftex.def)             Requested size: 239.39923pt x 126.92772pt.
+<figs/1nucleoEnterosTiempo.png, id=27, 1443.89438pt x 765.6103pt>
+File: figs/1nucleoEnterosTiempo.png Graphic file (type png)
+<use figs/1nucleoEnterosTiempo.png>
+Package pdftex.def Info: figs/1nucleoEnterosTiempo.png  used on input line 249.
+
+(pdftex.def)             Requested size: 239.39923pt x 126.92772pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3 <./figs/1nucleoCortosTiempo.png (PNG copy)> <./figs/1nucleoCortosMemoria.pn
+g (PNG copy)> <./figs/4nucleosCortosTiempo.png (PNG copy)> <./figs/4nucleosCort
+osMemoria.png (PNG copy)>]
+<figs/1nucleoEnterosMemoria.png, id=31, 1443.89438pt x 765.6103pt>
+File: figs/1nucleoEnterosMemoria.png Graphic file (type png)
+<use figs/1nucleoEnterosMemoria.png>
+Package pdftex.def Info: figs/1nucleoEnterosMemoria.png  used on input line 274
+.
+(pdftex.def)             Requested size: 239.39923pt x 126.92772pt.
+<figs/4nucleosEnterosTiempo.png, id=32, 1443.89438pt x 765.6103pt>
+File: figs/4nucleosEnterosTiempo.png Graphic file (type png)
+<use figs/4nucleosEnterosTiempo.png>
+Package pdftex.def Info: figs/4nucleosEnterosTiempo.png  used on input line 301
+.
+(pdftex.def)             Requested size: 239.39923pt x 126.92772pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<figs/4nucleosEnterosMemoria.png, id=33, 1443.89438pt x 765.6103pt>
+File: figs/4nucleosEnterosMemoria.png Graphic file (type png)
+<use figs/4nucleosEnterosMemoria.png>
+Package pdftex.def Info: figs/4nucleosEnterosMemoria.png  used on input line 32
+6.
+(pdftex.def)             Requested size: 239.39923pt x 126.92772pt.
+<figs/1nucleoFlotantesTiempo.png, id=34, 1443.89438pt x 765.6103pt>
+File: figs/1nucleoFlotantesTiempo.png Graphic file (type png)
+<use figs/1nucleoFlotantesTiempo.png>
+Package pdftex.def Info: figs/1nucleoFlotantesTiempo.png  used on input line 35
+5.
+(pdftex.def)             Requested size: 239.39923pt x 126.92772pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4 <./figs/1nucleoEnterosTiempo.png (PNG copy)> <./figs/1nucleoEnterosMemoria.
+png (PNG copy)> <./figs/4nucleosEnterosTiempo.png (PNG copy)> <./figs/4nucleosE
+nterosMemoria.png (PNG copy)>]
+<figs/1nucleoFlotantesMemoria.png, id=38, 1443.89438pt x 765.6103pt>
+File: figs/1nucleoFlotantesMemoria.png Graphic file (type png)
+<use figs/1nucleoFlotantesMemoria.png>
+Package pdftex.def Info: figs/1nucleoFlotantesMemoria.png  used on input line 3
+80.
+(pdftex.def)             Requested size: 239.39923pt x 126.92772pt.
+<figs/4nucleosFlotantesTiempo.png, id=39, 1443.89438pt x 765.6103pt>
+File: figs/4nucleosFlotantesTiempo.png Graphic file (type png)
+<use figs/4nucleosFlotantesTiempo.png>
+Package pdftex.def Info: figs/4nucleosFlotantesTiempo.png  used on input line 4
+07.
+(pdftex.def)             Requested size: 239.39923pt x 126.92772pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<figs/4nucleosFlotantesMemoria.png, id=40, 1443.89438pt x 765.6103pt>
+File: figs/4nucleosFlotantesMemoria.png Graphic file (type png)
+<use figs/4nucleosFlotantesMemoria.png>
+Package pdftex.def Info: figs/4nucleosFlotantesMemoria.png  used on input line 
+432.
+(pdftex.def)             Requested size: 239.39923pt x 126.92772pt.
+<figs/1nucleoDoblesTiempo.jpeg, id=41, 1284.8pt x 680.5425pt>
+File: figs/1nucleoDoblesTiempo.jpeg Graphic file (type jpg)
+<use figs/1nucleoDoblesTiempo.jpeg>
+Package pdftex.def Info: figs/1nucleoDoblesTiempo.jpeg  used on input line 461.
+
+(pdftex.def)             Requested size: 239.39923pt x 126.80182pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5 <./figs/1nucleoFlotantesTiempo.png (PNG copy)> <./figs/1nucleoFlotantesMemo
+ria.png (PNG copy)> <./figs/4nucleosFlotantesTiempo.png (PNG copy)> <./figs/4nu
+cleosFlotantesMemoria.png (PNG copy)>]
+<figs/1nucleoDoblesMemoria.jpeg, id=45, 1284.8pt x 680.5425pt>
+File: figs/1nucleoDoblesMemoria.jpeg Graphic file (type jpg)
+<use figs/1nucleoDoblesMemoria.jpeg>
+Package pdftex.def Info: figs/1nucleoDoblesMemoria.jpeg  used on input line 486
+.
+(pdftex.def)             Requested size: 239.39923pt x 126.80182pt.
+<figs/4nucleosDoblesTiempo.png, id=46, 1443.89438pt x 765.6103pt>
+File: figs/4nucleosDoblesTiempo.png Graphic file (type png)
+<use figs/4nucleosDoblesTiempo.png>
+Package pdftex.def Info: figs/4nucleosDoblesTiempo.png  used on input line 513.
+
+(pdftex.def)             Requested size: 239.39923pt x 126.92772pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<figs/4nucleosDoblesMemoria.png, id=47, 1443.89438pt x 765.6103pt>
+File: figs/4nucleosDoblesMemoria.png Graphic file (type png)
+<use figs/4nucleosDoblesMemoria.png>
+Package pdftex.def Info: figs/4nucleosDoblesMemoria.png  used on input line 538
+.
+(pdftex.def)             Requested size: 239.39923pt x 126.92772pt.
+ [6 <./figs/1nucleoDoblesTiempo.jpeg> <./figs/1nucleoDoblesMemoria.jpeg> <./fig
+s/4nucleosDoblesTiempo.png (PNG copy)> <./figs/4nucleosDoblesMemoria.png (PNG c
+opy)>]
+[7
+
+] (./articulo.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2234 strings out of 479383
+ 39328 string characters out of 5875830
+ 331609 words of memory out of 5000000
+ 19343 multiletter control sequences out of 15000+600000
+ 439971 words of font info for 87 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 66i,7n,72p,1415b,214s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/share/
+texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/
+share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/
+public/cm-super/sfrm1000.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb8
+a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texm
+f-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/
+times/utmri8a.pfb>
+Output written on articulo.pdf (7 pages, 1648328 bytes).
+PDF statistics:
+ 90 PDF objects out of 1000 (max. 8388607)
+ 51 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+
